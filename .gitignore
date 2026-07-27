@@ -1,0 +1,38 @@
+# Compiled Java class files
+*.class
+
+# Build outputs
+out/
+build/
+target/
+
+# IDE and Editor files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+.windows/
+
+# Gradle/Maven build files (if used)
+.gradle/
+.m2/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Node modules
+node_modules/
+
+# Package manager lock files
+package-lock.json
+yarn.lock
