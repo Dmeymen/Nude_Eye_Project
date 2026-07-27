@@ -1,0 +1,602 @@
+[
+  {
+    "product_id": "GLS-0001J",
+    "product_name": "Spectra Modern",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0002J",
+    "product_name": "NovaFrame Elite",
+    "brand": "NovaFrame",
+    "model": "NF-TR900"
+  },
+  {
+    "product_id": "GLS-0003H",
+    "product_name": "LuxSight Urban",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0004E",
+    "product_name": "FrameTech Minimal",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0005X",
+    "product_name": "FrameTech Elite",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0006O",
+    "product_name": "LuxSight Retro",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0007I",
+    "product_name": "NovaFrame Minimal",
+    "brand": "NovaFrame",
+    "model": "NF-TR900"
+  },
+  {
+    "product_id": "GLS-0008E",
+    "product_name": "FrameTech Classic",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0009O",
+    "product_name": "Lensify Urban",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0010X",
+    "product_name": "ZenOptic Sport",
+    "brand": "ZenOptic",
+    "model": "ZO-MN1000"
+  },
+  {
+    "product_id": "GLS-0011W",
+    "product_name": "Lensify Trend",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0012G",
+    "product_name": "ZenOptic Classic",
+    "brand": "ZenOptic",
+    "model": "ZO-MN1000"
+  },
+  {
+    "product_id": "GLS-0013D",
+    "product_name": "Spectra Urban",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0014X",
+    "product_name": "ClearView Urban",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0015B",
+    "product_name": "Spectra Minimal",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0016H",
+    "product_name": "OptiLux Trend",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0017W",
+    "product_name": "EyeCraft Sport",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0018R",
+    "product_name": "ClearView Minimal",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0019C",
+    "product_name": "OptiLux Premium",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0020S",
+    "product_name": "VisionPro Modern",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0021G",
+    "product_name": "Lensify Trend",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0022O",
+    "product_name": "LuxSight Vision",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0023D",
+    "product_name": "LuxSight Vision",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0024T",
+    "product_name": "ClearView Classic",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0025M",
+    "product_name": "VisionPro Premium",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0026E",
+    "product_name": "ClearView Sport",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0027K",
+    "product_name": "LuxSight Classic",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0028B",
+    "product_name": "Lensify Elite",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0029J",
+    "product_name": "Lensify Vision",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0030J",
+    "product_name": "Lensify Retro",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0031H",
+    "product_name": "ZenOptic Minimal",
+    "brand": "ZenOptic",
+    "model": "ZO-MN1000"
+  },
+  {
+    "product_id": "GLS-0032R",
+    "product_name": "VisionPro Modern",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0033A",
+    "product_name": "ZenOptic Sport",
+    "brand": "ZenOptic",
+    "model": "ZO-MN1000"
+  },
+  {
+    "product_id": "GLS-0034M",
+    "product_name": "OptiLux Minimal",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0035C",
+    "product_name": "ClearView Trend",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0036F",
+    "product_name": "LuxSight Premium",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0037X",
+    "product_name": "Spectra Minimal",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0038X",
+    "product_name": "ClearView Vision",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0039D",
+    "product_name": "LuxSight Classic",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0040T",
+    "product_name": "Spectra Minimal",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0041V",
+    "product_name": "FrameTech Vision",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0042B",
+    "product_name": "NovaFrame Sport",
+    "brand": "NovaFrame",
+    "model": "NF-TR900"
+  },
+  {
+    "product_id": "GLS-0043Z",
+    "product_name": "VisionPro Modern",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0044B",
+    "product_name": "OptiLux Classic",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0045B",
+    "product_name": "LuxSight Urban",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0046T",
+    "product_name": "OptiLux Minimal",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0047E",
+    "product_name": "OptiLux Trend",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0048U",
+    "product_name": "LuxSight Premium",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0049N",
+    "product_name": "LuxSight Sport",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0050F",
+    "product_name": "OptiLux Modern",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0051N",
+    "product_name": "FrameTech Minimal",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0052R",
+    "product_name": "EyeCraft Premium",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0053J",
+    "product_name": "Spectra Sport",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0054I",
+    "product_name": "FrameTech Trend",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0055V",
+    "product_name": "Lensify Urban",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0056R",
+    "product_name": "ClearView Urban",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0057W",
+    "product_name": "EyeCraft Modern",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0058N",
+    "product_name": "Spectra Urban",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0059K",
+    "product_name": "FrameTech Trend",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0060D",
+    "product_name": "NovaFrame Modern",
+    "brand": "NovaFrame",
+    "model": "NF-TR900"
+  },
+  {
+    "product_id": "GLS-0061D",
+    "product_name": "OptiLux Classic",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0062R",
+    "product_name": "Lensify Minimal",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0063K",
+    "product_name": "ClearView Elite",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0064T",
+    "product_name": "VisionPro Trend",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0065Q",
+    "product_name": "Spectra Elite",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0066J",
+    "product_name": "Lensify Retro",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0067T",
+    "product_name": "EyeCraft Retro",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0068F",
+    "product_name": "EyeCraft Modern",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0069F",
+    "product_name": "Spectra Premium",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0070T",
+    "product_name": "EyeCraft Trend",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0071H",
+    "product_name": "Lensify Trend",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0072G",
+    "product_name": "OptiLux Trend",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0073V",
+    "product_name": "FrameTech Elite",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0074I",
+    "product_name": "Lensify Classic",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0075F",
+    "product_name": "LuxSight Classic",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0076E",
+    "product_name": "Spectra Elite",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0077U",
+    "product_name": "Spectra Classic",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0078X",
+    "product_name": "LuxSight Classic",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0079I",
+    "product_name": "Spectra Sport",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0080X",
+    "product_name": "OptiLux Vision",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0081L",
+    "product_name": "Spectra Modern",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0082M",
+    "product_name": "Lensify Trend",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0083A",
+    "product_name": "OptiLux Premium",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0084R",
+    "product_name": "ClearView Elite",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0085W",
+    "product_name": "ClearView Vision",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0086N",
+    "product_name": "EyeCraft Urban",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0087P",
+    "product_name": "OptiLux Elite",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0088L",
+    "product_name": "ZenOptic Urban",
+    "brand": "ZenOptic",
+    "model": "ZO-MN1000"
+  },
+  {
+    "product_id": "GLS-0089Z",
+    "product_name": "Spectra Vision",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0090I",
+    "product_name": "OptiLux Premium",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0091C",
+    "product_name": "ClearView Modern",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0092K",
+    "product_name": "ClearView Classic",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0093S",
+    "product_name": "NovaFrame Retro",
+    "brand": "NovaFrame",
+    "model": "NF-TR900"
+  },
+  {
+    "product_id": "GLS-0094B",
+    "product_name": "VisionPro Premium",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0095V",
+    "product_name": "OptiLux Premium",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0096D",
+    "product_name": "FrameTech Minimal",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0097K",
+    "product_name": "OptiLux Premium",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0098G",
+    "product_name": "OptiLux Sport",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0099W",
+    "product_name": "LuxSight Vision",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0100S",
+    "product_name": "FrameTech Minimal",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "client_id": 1,
+    "client_type": "regular",
+    "full_name": "Carlos Martínez",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "618 347 336" },
+      { "country_prefix": "+34", "number": "670 389 206" }
+    ]
+  },
+  {
+    "client_id": 2,
+    "client_type": "regular",
+    "full_name": "Lucía Gómez",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "648 586 400" }
+    ]
+  },
+  {
+    "client_id": 3,
+    "client_type": "regular",
+    "full_name": "Javier Torres",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "643 485 642" },
+      { "country_prefix": "+34", "number": "667 739 803" }
+    ]
+  },
+  {
+    "client_id": 4,
+    "client_type": "regular",
+    "full_name": "Ana Ruiz",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "640 334 554" },
+      { "country_prefix": "+34", "number": "605 361 739" }
+    ]
+  },
+  {
+    "client_id": 5,
+    "client_type": "regular",
+    "full_name": "David Fernández",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "608 944 570" },
+      { "country_prefix": "+34", "number": "699 584 796" }
+    ]
+  },
+  {
+    "client_id": 6,
+    "client_type": "regular",
+    "full_name": "María López",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "677 145 638" }
+    ]
+  },
+  {
+    "client_id": 7,
+    "client_type": "regular",
+    "full_name": "Raúl Sánchez",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "677 910 271" }
+    ]
+  },
+  {
+    "client_id": 8,
+    "client_type": "regular",
+    "full_name": "Isabel Navarro",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "678 844 821" }
+    ]
+  },
+  {
+    "client_id": 9,
+    "client_type": "regular",
+    "full_name": "Pedro Jiménez",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "633 254 428" },
+      { "country_prefix": "+34", "number": "632 625 477" }
+    ]
+  },
+  {
+    "client_id": 10,
+    "client_type": "regular",
+    "full_name": "Elena Castro",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "637 430 911" },
+      { "country_prefix": "+34", "number": "669 955 377" }
+    ]
+  },
+  {
+    "client_id": 11,
+    "client_type": "online",
+    "full_name": "Sofía Delgado",
+    "address": "Carrer de Mallorca 221, 08008 Barcelona, Espanya",
+    "contact_email": "sofia.delgado@example.com",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "612 998 441" }
+    ]
+  },
+  {
+    "client_id": 12,
+    "client_type": "online",
+    "full_name": "Tomás Herrera",
+    "address": "Av. Diagonal 450, 08006 Barcelona, Espanya",
+    "contact_email": "tomas.herrera@example.com",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "699 112 884" }
+    ]
+  },
+  {
+    "client_id": 13,
+    "client_type": "corporate",
+    "cif": "B12345678",
+    "contact_name": "Laura Pérez",
+    "billing_address": "C/ Aragó 390, 08013 Barcelona, Espanya",
+    "mailing_address": "C/ Provença 102, 08029 Barcelona, Espanya",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "934 556 781" }
+    ]
+  },
+  {
+    "client_id": 14,
+    "client_type": "corporate",
+    "cif": "B87654321",
+    "contact_name": "Miguel Santos",
+    "billing_address": "Gran Via 587, 08007 Barcelona, Espanya",
+    "mailing_address": "C/ Casanova 12, 08011 Barcelona, Espanya",
+    "phone_numbers": [
+      { "country_prefix": "+34", "number": "933 112 900" },
+      { "country_prefix": "+34", "number": "622 445 901" }
+    ]
+  },
+  {
+    "client_id": 15,
+    "client_type": "corporate",
+    "cif": "C75862318",
+    "contact_name": "Joan Miquel Grausofert-Vileha",
+    "billing_address": "Rue Louis Blanc 13-1, 82000 Montauban, France",
+    "mailing_address": "C/ Casanova 12, 08011 Barcelona, Espanya",
+    "phone_numbers": [
+      { "country_prefix": "+33", "number": "05 23 58 69 41" },
+      { "country_prefix": "+34", "number": "622 445 901" }
+    ]
+  },
+  {
+    "client_id": 16,
+    "client_type": "online",
+    "full_name": "John Doe",
+    "address": "W Elm Ave 248, 58631 Glen Ullin, United States of America",
+    "contact_email": "j.doe@jmail.con",
+    "phone_numbers": [
+      { "country_prefix": "+1", "number": "700-348-3811" }
+    ]
+  }
+]
